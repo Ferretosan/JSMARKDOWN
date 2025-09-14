@@ -1,0 +1,32 @@
+{
+  "name": "markdown-js-parser",
+  "version": "1.0.0",
+  "description": "The best JavaScript Markdown Engine with enhanced regex support",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node demo.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "markdown",
+    "parser",
+    "html",
+    "regex",
+    "javascript",
+    "markdown-to-html"
+  ],
+  "author": "Ferretosan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ferretosan/markdown.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ferretosan/markdown.js/issues"
+  },
+  "homepage": "https://github.com/Ferretosan/markdown.js#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
