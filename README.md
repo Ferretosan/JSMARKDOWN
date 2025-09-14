@@ -1,5 +1,3 @@
-# markdown-js-parser
-
 ```
                             __            __                                     _         
                            [  |  _       |  ]                                   (_)   
