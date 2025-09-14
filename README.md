@@ -136,7 +136,7 @@ Object containing all regex patterns used by the parser.
 
 ## License
 
-MIT
+GPL-3.0-Licence
 
 ## Contributing
 
